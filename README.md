@@ -1,0 +1,2 @@
+# testCore
+pruebas con git
